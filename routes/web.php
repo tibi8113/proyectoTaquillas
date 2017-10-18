@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('lockers');
+    return view('pages/main');
 });
 
 Route::get('/register', function () {

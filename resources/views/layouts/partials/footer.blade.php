@@ -1,7 +1,7 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: tibi
- * Date: 17/10/17
- * Time: 13:51
- */
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Taquito Gazpacho</p>
+    </div>
+    <!-- /.container -->
+</footer>
